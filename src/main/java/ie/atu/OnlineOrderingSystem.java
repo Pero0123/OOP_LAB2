@@ -7,6 +7,7 @@ public class OnlineOrderingSystem {
             new Burger("Cheese Burger", 7.99, "Beef burger, lettuce, pickles, onions, cheese"),
             new Pizza("Jalepeno", 12.99, "jalepeno, cheese, curry"),
             new Salad("salad", 2.99, "Lettuce, tomaote, strawberries, tuna"),
+            new BaileyCoffee("Baileys Coffee", 3.99, "Baileys, Coffee, Milk"),
         };
 
         //Display details of each menu item
